@@ -1,9 +1,15 @@
-# Pet Portal Skeleton
+# Pet adopt portal
 
-Start implementing features based on the assignment instructions.\
-You don't have to do any styling, focus on the functionalities.\
-Feel free to create new files for more organized code.
+for admin access:
 
+user:
+```
+admin 
+```
+pass:
+```
+admin
+```
 ## Developing
 ```bash
 	npm run dev
