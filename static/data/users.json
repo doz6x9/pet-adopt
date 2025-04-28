@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "admin",
+    "passwordHash": "admin",
+    "budget": 980,
+    "inventory": {
+      "food": 10,
+      "toy": 10,
+      "treat": 10
+    }
+  },
+  {
+    "id": 1745795892750,
+    "name": "dip",
+    "passwordHash": "$2b$10$lfL2tpTvgf1TzVCXqySsJeg16oNExQtrHEqoKMpbNWCOR4lOLGmdS",
+    "budget": 275,
+    "inventory": {
+      "food": 0,
+      "toy": 0,
+      "treat": 0
+    }
+  },
+  {
+    "id": 1745800238685,
+    "name": "dip1",
+    "passwordHash": "$2b$10$LQtB5uvmRAVPecne2GvmVeJeWF4QyPFQ/9WiFZVCU03N1xA2mRm7K",
+    "budget": 100,
+    "inventory": {
+      "food": 0,
+      "toy": 0,
+      "treat": 0
+    }
+  },
+  {
+    "id": 1745843478103,
+    "name": "nushrat",
+    "passwordHash": "$2b$10$nnmOWR4cCybkvRKQIPWylOb6MAifMpQtfWmQfEsNn6i1CGSfKviiu",
+    "budget": 21,
+    "inventory": {
+      "food": 1,
+      "toy": 9,
+      "treat": 3
+    }
+  }
+]
