@@ -3,7 +3,7 @@
     "id": 1,
     "name": "admin",
     "passwordHash": "admin",
-    "budget": 980,
+    "budget": 1000,
     "inventory": {
       "food": 10,
       "toy": 10,
@@ -41,6 +41,17 @@
       "food": 1,
       "toy": 9,
       "treat": 3
+    }
+  },
+  {
+    "id": 1745945305248,
+    "name": "Nushrat",
+    "passwordHash": "$2b$10$ha//Kf9nomTADC4JZ9EAnush2WDqEtFQUyJ864NM62pyVoOZGRnQu",
+    "budget": 120,
+    "inventory": {
+      "food": 0,
+      "toy": 0,
+      "treat": 0
     }
   }
 ]

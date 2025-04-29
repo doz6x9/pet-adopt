@@ -4,19 +4,28 @@
     "name": "Harry",
     "type": "puppy",
     "picture": "https://placedog.net/400/300?id=1",
-    "adopted": true,
+    "adopted": false,
     "hunger": 0,
-    "happiness": 100,
-    "ownerId": 1
+    "happiness": 50
+  },
+  {
+    "id": 4,
+    "name": "codebro",
+    "type": "kitten",
+    "picture": "images/codebro.jpeg",
+    "adopted": false,
+    "hunger": 100,
+    "happiness": 0
   },
   {
     "id": 2,
-    "name": "Karim",
+    "name": "Hummus",
     "type": "kitten",
-    "picture": "https://placekitten.com/400/300",
-    "adopted": false,
-    "hunger": 0,
-    "happiness": 100
+    "picture": "https://cataas.com/cat/says/Hummus?width=400&height=300",
+    "adopted": true,
+    "hunger": 50,
+    "happiness": 20,
+    "ownerId": 1
   },
   {
     "id": 3,
@@ -24,25 +33,16 @@
     "type": "puppy",
     "picture": "https://placedog.net/400/300?id=2",
     "adopted": false,
-    "hunger": 0,
-    "happiness": 100
+    "hunger": 25,
+    "happiness": 70
   },
   {
     "id": 4,
     "name": "Kanye",
     "type": "kitten",
-    "picture": "https://images.app.goo.gl/zd4KWd7XejcT2scB6",
+    "picture": "https://cataas.com/cat/says/Kanye?width=400&height=300",
     "adopted": false,
-    "hunger": 0,
-    "happiness": 100
-  },
-  {
-    "id": 1745798690020,
-    "name": "D",
-    "picture": "https://placedog.net/400/288?id=190",
-    "type": "puppy",
-    "adopted": false,
-    "hunger": 0,
-    "happiness": 100
+    "hunger": 70,
+    "happiness": 80
   }
 ]

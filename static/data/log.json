@@ -1,5 +1,21 @@
 [
   {
+    "message": "Nushrat returned Harry (+$20)",
+    "timestamp": "2025-04-29T16:48:39.812Z"
+  },
+  {
+    "message": "Nushrat adopted Harry",
+    "timestamp": "2025-04-29T16:48:30.603Z"
+  },
+  {
+    "message": "admin adopted Hummus",
+    "timestamp": "2025-04-29T16:42:55.228Z"
+  },
+  {
+    "message": "admin returned Harry (+$20)",
+    "timestamp": "2025-04-29T16:41:54.675Z"
+  },
+  {
     "message": "nushrat returned Karim (+$20)",
     "timestamp": "2025-04-28T21:08:16.635Z"
   },
