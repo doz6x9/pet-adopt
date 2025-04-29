@@ -14,5 +14,5 @@ admin
 ```
 Install dependencies:
 ```bash
-	npm i
+	npm install
 ```
