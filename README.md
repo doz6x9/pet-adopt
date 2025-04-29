@@ -1,5 +1,6 @@
 # Pet Adopt
 
+<<<<<<< HEAD
 A SvelteKit + TypeScript web app that lets users browse, adopt, and care for puppies and kittens.  
 All data is stored in JSON files under `static/data/`—no external database required.
 
@@ -51,3 +52,23 @@ Username: admin
 Password: admin
 
 - - -
+=======
+user:
+```
+admin 
+```
+pass:
+```
+admin
+```
+## Developing
+```bash
+	npm run dev
+```
+Install dependencies:
+```bash
+	npm install
+```
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-orange?logo=svelte&logoColor=white)
+>>>>>>> 35ecfaeeeeb381b029116d495b2c1a2d203fd625
