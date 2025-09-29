@@ -1,6 +1,5 @@
 # Pet Adopt
 
-<<<<<<< HEAD
 A SvelteKit + TypeScript web app that lets users browse, adopt, and care for puppies and kittens.  
 All data is stored in JSON files under `static/data/`—no external database required.
 
